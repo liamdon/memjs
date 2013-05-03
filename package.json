@@ -9,7 +9,7 @@
     "url": "git://github.com/alevy/memjs.git"
   },
   "engines": {
-    "node": ">=0.6.18"
+    "node": ">=0.6.17"
   },
   "main": "./lib/memjs/memjs",
   "directories" : {
